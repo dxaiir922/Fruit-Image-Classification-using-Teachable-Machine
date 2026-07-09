@@ -39,7 +39,7 @@ Each class contains five training images.
 
 - `keras_model.h5` – Trained model
 - `labels.txt` – Class labels
-- `predict.py` – Prediction script
+- `Untitled14.ipynb` – Prediction script
 
 ## Workflow
 
