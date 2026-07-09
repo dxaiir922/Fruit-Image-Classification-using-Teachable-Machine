@@ -1,5 +1,4 @@
 # Fruit-Image-Classification-using-Teachable-Machine
-Image classification project using Google Teachable Machine and TensorFlow (Keras) to recognize Apple, Banana, and Strawberry images
 ## Project Overview
 
 This project demonstrates an image classification model built using Google Teachable Machine. The model classifies fruit images into three categories:
