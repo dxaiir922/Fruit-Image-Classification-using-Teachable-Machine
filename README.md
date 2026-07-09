@@ -40,9 +40,6 @@ Each class contains five training images.
 - `keras_model.h5` – Trained model
 - `labels.txt` – Class labels
 - `predict.py` – Prediction script
-- `test_image.jpg` – Test image
-- `output.png` – Screenshot of the prediction
-- `README.md` – Project documentation
 
 ## Workflow
 
